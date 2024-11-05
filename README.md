@@ -11,7 +11,7 @@ Finally, the occurrence of adjacent tiles was analyzed, aiding in the evaluation
 The analysis of mixing time refers to the duration required for the Markov Chain to converge to its stationary distribution. The mixing probability was calculated by evaluating the likelihood of each state in the grid, taking into account adjacency frequencies and occurrences. These likelihoods were then averaged to assess how efficiently the Markov Chain mixes across the state space, varying with the number of swaps.
 
 ## Generated Content
-<div style="display: flex; gap: 10px;">
+<div style="display: flex; justify-content: space-between; gap: 10px;">
 
 <div style="border: 1px solid #ccc; padding: 10px;">
     <img src="https://github.com/user-attachments/assets/b477f5df-fd7d-43f1-ab8f-7e1a012f4a3d" alt="good4" width="100">
@@ -30,4 +30,5 @@ The analysis of mixing time refers to the duration required for the Markov Chain
 </div>
 
 </div>
+
 
