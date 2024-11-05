@@ -18,7 +18,7 @@ The analysis of mixing time refers to the duration required for the Markov Chain
     <td><img src="https://github.com/user-attachments/assets/eaca283a-3805-437f-bba2-347d4cd71e85" alt="good2" width="200"></td>
     <td><img src="https://github.com/user-attachments/assets/f4e4cf78-7e2d-4c91-b570-840f25e8283f" alt="good1" width="200"></td>
     <td><img src="https://github.com/user-attachments/assets/41e8f22b-f4ef-4192-ae3d-c36bf2a6691d" alt="good5" width="200"></td>
-    <td><img src="https://github.com/user-attachments/assets/e0c36a21-5d45-43de-8df5-a1e67cb0b43" alt="good6" width="200"></td>
+    <td><img src="ttps://github.com/user-attachments/assets/1b3cf781-069d-4a0b-8cf1-104be4bd8d4f" alt="good6" width="200"></td>
   </tr>
 </table>
 
