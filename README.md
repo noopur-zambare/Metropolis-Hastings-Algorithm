@@ -13,10 +13,12 @@ The analysis of mixing time refers to the duration required for the Markov Chain
 ## Generated Content
 <table>
   <tr>
-    <td><img src="https://github.com/user-attachments/assets/b477f5df-fd7d-43f1-ab8f-7e1a012f4a3d" alt="good4" width="100"></td>
-    <td><img src="https://github.com/user-attachments/assets/721d3478-1dc3-4bdb-80d8-751648860647" alt="good3" width="100"></td>
-    <td><img src="https://github.com/user-attachments/assets/eaca283a-3805-437f-bba2-347d4cd71e85" alt="good2" width="100"></td>
-    <td><img src="https://github.com/user-attachments/assets/f4e4cf78-7e2d-4c91-b570-840f25e8283f" alt="good1" width="100"></td>
+    <td><img src="https://github.com/user-attachments/assets/b477f5df-fd7d-43f1-ab8f-7e1a012f4a3d" alt="good4" width="200"></td>
+    <td><img src="https://github.com/user-attachments/assets/721d3478-1dc3-4bdb-80d8-751648860647" alt="good3" width="200"></td>
+    <td><img src="https://github.com/user-attachments/assets/eaca283a-3805-437f-bba2-347d4cd71e85" alt="good2" width="200"></td>
+    <td><img src="https://github.com/user-attachments/assets/f4e4cf78-7e2d-4c91-b570-840f25e8283f" alt="good1" width="200"></td>
+    <td><img src="https://github.com/user-attachments/assets/41e8f22b-f4ef-4192-ae3d-c36bf2a6691d" alt="good5" width="200"></td>
+    <td><img src="https://github.com/user-attachments/assets/e0c36a21-5d45-43de-8df5-a1e67cb0b43" alt="good6" width="200"></td>
   </tr>
 </table>
 
