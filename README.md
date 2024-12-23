@@ -7,7 +7,7 @@ To decide whether to accept the proposed swaps, the Metropolis-Hastings algorith
 Finally, the occurrence of adjacent tiles was analyzed, aiding in evaluating the likelihood of that specific configuration.
 
 ### Analysis of Mixing Time
-The analysis of mixing time refers to the duration required for the Markov Chain to converge to its stationary distribution. The mixing probability was calculated by evaluating the likelihood of each state in the grid, taking into account adjacency frequencies and occurrences. These likelihoods were then averaged to assess how efficiently the Markov Chain mixes across the state space, varying with the number of swaps.
+Mixing time refers to the duration required for the Markov Chain to converge to its stationary distribution. The mixing probability was calculated by evaluating the likelihood of each state in the grid, taking into account adjacency frequencies and occurrences. These likelihoods were then averaged to assess how efficiently the Markov Chain mixes across the state space, varying with the number of swaps.
 
 ### Generated Content
 <table>
